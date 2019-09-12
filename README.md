@@ -2,7 +2,7 @@
 
 This is a demonstration of a psychic game made through Javascript
 
-#Instructions
+# Instructions
 
 *User gueses a letter which the computer may be selecting by typing a letter of their choice on the keyboard.
 
